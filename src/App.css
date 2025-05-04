@@ -1,5 +1,5 @@
 .App {
-  background: url('C:\Users\maimo\Desktop\reactProject\my-react-app\src\back.jpg') no-repeat center center fixed;
+  background: url('/back.jpg');
   background-size: cover;
   width: 100vw;
   height: 100vh;
